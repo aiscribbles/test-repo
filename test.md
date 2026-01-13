@@ -6,3 +6,5 @@ This is a test file in markdown format.
 Here is a paragraph
 
 >>> and a block quote!
+
+Sign off would go here!
